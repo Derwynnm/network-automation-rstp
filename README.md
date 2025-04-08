@@ -38,5 +38,5 @@ The script expects a `.xlsx` file with the following columns:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rstp-automation.git
+   git clone https://github.com/Derwynnm/rstp-automation.git
    cd rstp-automation
