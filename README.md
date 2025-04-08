@@ -6,7 +6,7 @@ This script enables **Rapid PVST**, removes global priority overrides, and deleg
 
 ---
 
-## Features
+## 📌 Features
 
 - Enables `spanning-tree mode rapid-pvst`
 - Removes `spanning-tree vlan 1-4094 priority 24576`
@@ -18,7 +18,7 @@ This script enables **Rapid PVST**, removes global priority overrides, and deleg
 
 ---
 
-## Excel Format
+## 📁 Excel Format
 
 The script expects a `.xlsx` file with the following columns:
 
@@ -34,7 +34,7 @@ The script expects a `.xlsx` file with the following columns:
 
 ---
 
-## Usage
+## 🚀 Usage
 
 1. Clone this repository:
    ```bash
